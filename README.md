@@ -59,3 +59,13 @@ To run this project, ensure you have the following installed:
 You can install the dependencies using:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
+## How to Use
+
+(.) Clone or download the project repository.
+
+(.) Open the Jupyter Notebook file (**HR_Analytics_Employee_Attrition_Performance.ipynb**).
+
+(.) Execute the cells step by step to explore the dataset, visualize insights, and build predictive models.
+
+(.) Analyze the visualizations and model results to derive conclusions.
