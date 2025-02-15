@@ -62,10 +62,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 ## How to Use
 
-(.) Clone or download the project repository.
+(). Clone or download the project repository.
 
-(.) Open the Jupyter Notebook file (**HR_Analytics_Employee_Attrition_Performance.ipynb**).
+(). Open the Jupyter Notebook file (**HR_Analytics_Employee_Attrition_Performance.ipynb**).
 
-(.) Execute the cells step by step to explore the dataset, visualize insights, and build predictive models.
+(). Execute the cells step by step to explore the dataset, visualize insights, and build predictive models.
 
-(.) Analyze the visualizations and model results to derive conclusions.
+(). Analyze the visualizations and model results to derive conclusions.
