@@ -69,3 +69,15 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 3. Execute the cells step by step to explore the dataset, visualize insights, and build predictive models.
 
 4. Analyze the visualizations and model results to derive conclusions.
+
+## Results & Insights
+
+The findings from the analysis help organizations identify key factors affecting employee retention and suggest actionable strategies to reduce attrition rates. By implementing predictive modeling, companies can proactively retain employees and improve business outcomes.
+
+## Contributing
+
+Contributions are welcome! If you want to improve the analysis or add new features, feel free to fork the repository and submit a pull request.
+
+## License
+
+This project is open-source and available under the MIT License.
