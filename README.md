@@ -12,3 +12,50 @@ The analysis is designed to answer the following questions:
 * Can predictive models help save costs related to employee turnover?
 
 * Which business units are most affected by attrition?
+
+## Data Analysis Approach
+
+**Exploratory Data Analysis (EDA)**
+
+EDA is performed to find patterns and insights in the data. Various techniques used include:
+
+* Continuous Variables: Histograms and boxplots to analyze central tendency and spread.
+
+* Categorical Variables: Bar charts and count plots to understand distributions.
+
+* Correlation Analysis: Heatmaps to identify relationships between different attributes.
+
+## Predictive Modeling
+
+Machine learning models are employed to predict employee attrition based on various factors such as age, salary, job satisfaction, and work-life balance. Model performance is evaluated using:
+
+* Accuracy
+
+* Precision
+
+* Recall
+
+* F1-score
+## Requirements
+
+To run this project, ensure you have the following installed:
+
+* Python (3.x)
+
+* Jupyter Notebook
+
+* Required libraries:
+
+* Pandas
+
+* NumPy
+
+* Matplotlib
+
+* Seaborn
+
+* Scikit-learn
+
+You can install the dependencies using:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
